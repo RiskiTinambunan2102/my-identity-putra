@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://riskitinambunan2102.github.io/my-identity-putra/sitemap.xml
